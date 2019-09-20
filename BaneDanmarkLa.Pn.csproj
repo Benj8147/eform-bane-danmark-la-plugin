@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <OutputPath>../../../eFormAPI.Web/Plugins/BaneDanmarkLa</OutputPath>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <OutputPath>../../../eFormAPI.Web/Plugins/BaneDanmarkLa</OutputPath>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Handlers" />
+      <Folder Include="Infrastructure\Consts" />
+      <Folder Include="Infrastructure\Helpers" />
+      <Folder Include="Infrastructure\Models\Report" />
+      <Folder Include="Messages" />
+      <Folder Include="Resources\Templates" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="McMaster.NETCore.Plugins" Version="0.2.1" />
+      <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.7" />
+      <PackageReference Include="Microting.eForm" Version="3.0.306" />
+      <PackageReference Include="Microting.eFormApi.BasePn" Version="1.1.175" />
+      <PackageReference Include="Microting.eFormCaseTemplateBase" Version="1.1.9" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="Resources\localization.json" />
+    </ItemGroup>
+
+</Project>

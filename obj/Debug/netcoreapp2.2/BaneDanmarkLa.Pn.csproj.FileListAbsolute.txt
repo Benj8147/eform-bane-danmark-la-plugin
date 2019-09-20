@@ -1,0 +1,12 @@
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/obj/Debug/netcoreapp2.2/BaneDanmarkLa.Pn.csproj.CoreCompileInputs.cache
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/obj/Debug/netcoreapp2.2/BaneDanmarkLa.Pn.AssemblyInfoInputs.cache
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/obj/Debug/netcoreapp2.2/BaneDanmarkLa.Pn.AssemblyInfo.cs
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/eFormAPI.Web/Plugins/BaneDanmarkLa/netcoreapp2.2/BaneDanmarkLa.Pn.deps.json
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/eFormAPI.Web/Plugins/BaneDanmarkLa/netcoreapp2.2/BaneDanmarkLa.Pn.dll
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/eFormAPI.Web/Plugins/BaneDanmarkLa/netcoreapp2.2/BaneDanmarkLa.Pn.pdb
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/obj/Debug/netcoreapp2.2/BaneDanmarkLa.Pn.dll
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/obj/Debug/netcoreapp2.2/BaneDanmarkLa.Pn.pdb
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/obj/Debug/netcoreapp2.2/BaneDanmarkLa.Pn.csproj.CopyComplete
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/eFormAPI.Web/Plugins/BaneDanmarkLa/netcoreapp2.2/BaneDanmarkLa.Pn.runtimeconfig.json
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/eFormAPI.Web/Plugins/BaneDanmarkLa/netcoreapp2.2/BaneDanmarkLa.Pn.runtimeconfig.dev.json
+/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/obj/Debug/netcoreapp2.2/BaneDanmarkLa.Pn.csprojAssemblyReference.cache

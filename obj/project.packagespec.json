@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn.csproj",
+    "projectName": "BaneDanmarkLa.Pn",
+    "projectPath": "/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn.csproj",
+    "outputPath": "/home/benjamin/Documents/workspace/microting/eform-angular-frontend/eFormAPI/Plugins/BaneDanmarkLa.Pn/BaneDanmarkLa.Pn/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "McMaster.NETCore.Plugins": {
+          "target": "Package",
+          "version": "[0.2.1, )"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.2.7, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microting.eForm": {
+          "target": "Package",
+          "version": "[3.0.306, )"
+        },
+        "Microting.eFormApi.BasePn": {
+          "target": "Package",
+          "version": "[1.1.175, )"
+        },
+        "Microting.eFormCaseTemplateBase": {
+          "target": "Package",
+          "version": "[1.1.9, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
